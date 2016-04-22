@@ -1,7 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:300,200);
-@font-face {
+/*@font-face {
     font-family: 'fineSerif';
     src: url("fonts/Fine_Serif.ttf");
+    font-weight: 400;
+}*/
+@font-face {
+    font-family: 'FineSerif';
+    src: url("fonts/Fine Serif_0.ttf");
     font-weight: 400;
 }
 html, body {
@@ -31,12 +36,15 @@ h2 {
     font-weight: 300;
     color: #e27964;
     margin: 0;
+    font-size: 21px;
 }
 h3 {
-    font-family: 'fineSerif', sans-serif;
+    font-family: 'FineSerif', sans-serif;
     color: #e27964;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
+    margin-top: 50px;
+    font-size: 13px;
 }
 .logo {
     max-width: 150px;
