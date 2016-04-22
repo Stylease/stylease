@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,200);
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,200);
 @font-face {
     font-family: 'fineSerif';
     src: url("fonts/Fine_Serif.ttf");
@@ -21,8 +21,8 @@ html, body {
 }
 h1 {
     font-family: 'Work Sans', sans-serif;
-    font-size: 35px;
-    font-weight: 400;
+    font-size: 42px;
+    font-weight: 200;
     color: #fcd3bd;
     margin: 10px 0 0;
 }
@@ -36,7 +36,7 @@ h3 {
     font-family: 'fineSerif', sans-serif;
     color: #e27964;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
 }
 .logo {
     max-width: 150px;
