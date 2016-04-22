@@ -36,6 +36,7 @@ h3 {
     font-family: 'fineSerif', sans-serif;
     color: #e27964;
     text-transform: uppercase;
+    letter-spacing: 2px;
 }
 .logo {
     max-width: 150px;
